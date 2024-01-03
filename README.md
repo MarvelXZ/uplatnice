@@ -1,4 +1,4 @@
-PDF Generator za Naloga za Uplatu, Naloga za Isplatu, Naloga za Prenos
+PDF Generator Naloga za Uplatu, Naloga za Isplatu, Naloga za Prenos
 
 Ovaj projekat omogućava generisanje PDF dokumenata za finansijske naloge, uključujući naloge za uplatu, isplatu i prenos. Skript koristi podatke iz Excel datoteka i pretvara ih u naloge formatirane u PDF dokument.
 
